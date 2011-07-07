@@ -1,14 +1,1 @@
-========
-RDF REST
-========
-
-A framework for RDF-based REST-ful services.
-
-Dependancies
-============
-
-* rdflib 3.x
-* httplib2
-* webob (server)
-* nose (developers)
-* pylint (developers)
+This project has been merged with https://github.com/ktbs/ktbs
